@@ -15,7 +15,7 @@ I blend industry experience with academic depth to craft solutions that are scal
 
 ## 🛠️ Top Technical Skills
 
-- 🔹 Data Structures & Algorithms • Java • Spring Boot • MySQL • Microservices • AWS  • Object-Oriented Design  
+- Data Structures & Algorithms • Java • Spring Boot • MySQL • Microservices • AWS  • Object-Oriented Design  
 
 ---
 
