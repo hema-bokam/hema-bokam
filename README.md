@@ -15,18 +15,23 @@ I blend industry experience with academic depth to craft solutions that are both
 
 ## 🛠️ Top Technical Skills
 
-- 🔹 Data Structures & Algorithms • Java • Spring Boot • MySQL • Microservices • AWS  • Object-Oriented Design
+- 🔹 Data Structures & Algorithms • Java • Spring Boot • MySQL • Microservices • AWS  • Object-Oriented Design  
 
 ---
 
 ## 🚀 Tech Stack
 
+## 🚀 Tech Stack
+
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white&style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
@@ -38,9 +43,12 @@ I blend industry experience with academic depth to craft solutions that are both
 
 ## 🌐 My Profiles
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://www.hemabokam.me/)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hemabokam)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](https://leetcode.com/Hema_12/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white&style=flat-square)](https://www.hemabokam.me/)
+&ensp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hemabokam)
+&ensp;
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](https://leetcode.com/Hema_12/)
+&ensp;
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/hema-bokam)
 
 ---
