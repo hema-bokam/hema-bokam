@@ -5,31 +5,34 @@ I blend industry experience with academic depth to craft solutions that are both
 
 ---
 
+## 👩‍💻 About Me
+
+- 🎓 Graduated with a Master's in Computer Science from **University at Buffalo** *(May 2025)*
+- ⚙️ Passionate about building **scalable, performant backend systems**
+- 💡 A **creative thinker** and consistent **problem solver**, striving to write clean and efficient code
+
+---
+
 ## 🛠️ Top Technical Skills
 
-**Data Structures & Algorithms**, **Java**, **Spring Boot**, **SQL**,  
-**RESTful APIs**, **gRPC**, **Microservices**, **Kafka**,  
-**AWS**, **GCP**, **Object-Oriented Design**, **Design Patterns**
+- 🔹 Data Structures & Algorithms • Java • Spring Boot • MySQL • Microservices • AWS  • Object-Oriented Design
 
 ---
 
 ## 🚀 Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=grpc&logoColor=white&style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-
----
-
-## 📈 GitHub Stats
-
-![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hema-bokam&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-bokam&layout=compact&theme=radical)
 
 ---
 
