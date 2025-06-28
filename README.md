@@ -1,7 +1,7 @@
 # Hi, I’m Hema Bokam 👋
 
 Hi, I’m Hema Bokam, a software engineer who loves building scalable systems and clean backend architectures.  
-I blend industry experience with academic depth to craft solutions that are both smart and impactful.
+I blend industry experience with academic depth to craft solutions that are scalable and impactful.
 
 ---
 
