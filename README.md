@@ -18,7 +18,7 @@ I’m a software engineer who loves building scalable systems and clean backend 
 
 ---
 
-## 🚀 Tech Stack
+
 
 ## 🚀 Tech Stack
 
